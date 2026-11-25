@@ -1,7 +1,5 @@
 
-# 💬 Full Stack Real-Time Chat App 🚀
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
 ---
 
@@ -32,7 +30,6 @@
 - 🎯 Resume-Ready Production-Style Project
 
 ---
-
 ## 🧪 Environment Variables
 
 
@@ -66,10 +63,6 @@ VITE_CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
 
 ---
 
-
-## 🚀 Tech Stack
-
-## Tech Stack
 db8787847c3e582bb61be2eae913b97ec40a41fe
 
 ### Frontend
@@ -77,8 +70,6 @@ db8787847c3e582bb61be2eae913b97ec40a41fe
 - React
 - Tailwind CSS
 
-- Hero UI
-- Zustand
 
 db8787847c3e582bb61be2eae913b97ec40a41fe
 - Socket.io Client
@@ -91,13 +82,7 @@ db8787847c3e582bb61be2eae913b97ec40a41fe
 - Socket.io
 - Clerk
 
-- ImageKit
 
-### Deployment
-
-- Frontend: Render
-- Backend: Render
-- Database: MongoDB Atlas
 
 
  db8787847c3e582bb61be2eae913b97ec40a41fe
